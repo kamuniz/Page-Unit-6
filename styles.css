@@ -1,0 +1,30 @@
+img {
+    width: 40%;
+}
+
+button {
+
+
+
+    width: 300px;
+    height: 50px;
+    font-size: 20px;
+    background: #541052;
+    color: #dab0f5;
+    border-radius: 5px;
+    border: solid black 3px;
+}
+
+body {
+    background-image: url(https://media1.tenor.com/images/e7ed294c000f6f160c3a81247322a4a1/tenor.gif?itemid=7229480);
+
+
+}
+
+h1 {
+    color: #07abab;
+}
+
+.taco {
+    color: red;
+}
